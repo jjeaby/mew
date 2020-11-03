@@ -11,11 +11,9 @@ This repository contains the open-source uptime monitor and status page for [jje
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/jjeaby/mew/issues) as incident reports, [Actions](https://github.com/jjeaby/mew/actions) as uptime monitors, and [Pages](https://jjeaby.github.io/mew/) for the status page.
 
 <!--start: status pages-->
-
-| URL                              | Status  | History                                                                       | Response Time                                                             | Uptime                                                                                                                                              |
-| -------------------------------- | ------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Google](https://www.google.com) | 🟥 Down | [google.yml](https://github.com/jjeaby/mew/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 0ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json) |
-
+| URL | Status | History | Response Time | Uptime |
+| --- | ------ | ------- | ------------- | ------ |
+| [Google](https://www.google.com) | 🟥 Down | [google.yml](https://github.com/jjeaby/mew/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 0ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 <!--end: status pages-->
 
 [**Visit our status website →**](https://jjeaby.github.io/mew/)
