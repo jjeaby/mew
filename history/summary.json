@@ -1,34 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 83
-  },
-  {
     "name": "mecab jjeaby",
     "url": "https://mecab.jjeaby.ml",
     "slug": "mecab-jjeaby",
     "status": "up",
     "uptime": "100.00",
-    "time": 923
+    "time": 920
   },
   {
-    "name": "ailinggo landing",
-    "url": "https://ailinggo.ai",
-    "slug": "ailinggo-landing",
+    "name": "jjeaby doku",
+    "url": "https://jjeaby.ml",
+    "slug": "jjeaby-doku",
     "status": "up",
     "uptime": "100.00",
-    "time": 553
-  },
-  {
-    "name": "ailinggo landing",
-    "url": "https://ailinggo.ai",
-    "slug": "ailinggo-landing",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 553
+    "time": 1391
   }
 ]
