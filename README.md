@@ -13,8 +13,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [mecab jjeaby](https://mecab.jjeaby.ml) | 🟩 Up | [mecab-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/mecab-jjeaby.yml) | <img alt="Response time graph" src="./graphs/mecab-jjeaby.png" height="20"> 920ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fmecab-jjeaby%2Fuptime.json)
-| [jjeaby doku](https://jjeaby.ml) | 🟩 Up | [jjeaby-doku.yml](https://github.com/jjeaby/mew/commits/master/history/jjeaby-doku.yml) | <img alt="Response time graph" src="./graphs/jjeaby-doku.png" height="20"> 1391ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fjjeaby-doku%2Fuptime.json)
+| [mecab jjeaby](https://mecab.jjeaby.ml) | 🟩 Up | [mecab-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/mecab-jjeaby.yml) | <img alt="Response time graph" src="./graphs/mecab-jjeaby.png" height="20"> 941ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fmecab-jjeaby%2Fuptime.json)
+| [doku jjeaby](https://www.jjeaby.ml) | 🟩 Up | [doku-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/doku-jjeaby.yml) | <img alt="Response time graph" src="./graphs/doku-jjeaby.png" height="20"> 972ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fdoku-jjeaby%2Fuptime.json)
 <!--end: status pages-->
 
 
