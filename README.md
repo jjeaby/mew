@@ -17,6 +17,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 | [jjeaby doku](https://jjeaby.ml) | 🟩 Up | [jjeaby-doku.yml](https://github.com/jjeaby/mew/commits/master/history/jjeaby-doku.yml) | <img alt="Response time graph" src="./graphs/jjeaby-doku.png" height="20"> 1391ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fjjeaby-doku%2Fuptime.json)
 <!--end: status pages-->
 
+
+여기 수정? 
+
+
 [**Visit our status website →**](https://jjeaby.github.io/mew/)
 
 ## 📄 License
