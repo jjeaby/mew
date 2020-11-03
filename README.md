@@ -13,7 +13,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/jjeaby/mew/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 44ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
+| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/jjeaby/mew/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 63ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 <!--end: status pages-->
 
 [**Visit our status website →**](https://jjeaby.github.io/mew/)
