@@ -5,6 +5,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 63
+    "time": 77
+  },
+  {
+    "name": "mecab jjeaby",
+    "url": "https://mecab.jjeaby.ml",
+    "slug": "mecab-jjeaby",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 929
   }
 ]
