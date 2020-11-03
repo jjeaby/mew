@@ -4,6 +4,8 @@ user-agent: jjeaby
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
+  - name: mecab jjeaby
+    url: https://mecab.jjeaby.ml
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 status-website: # Status website (optional)
