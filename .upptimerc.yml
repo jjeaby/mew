@@ -6,6 +6,10 @@ sites: # List of endpoints to track
     url: https://www.google.com
   - name: mecab jjeaby
     url: https://mecab.jjeaby.ml
+  - name: ailinggo landing
+    url: https://ailinggo.ai
+  - name: ailinggo landing
+    url: https://ailinggo.ai
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 status-website: # Status website (optional)
