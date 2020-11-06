@@ -11,15 +11,15 @@ This repository contains the open-source uptime monitor and status page for [jje
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/jjeaby/mew/issues) as incident reports, [Actions](https://github.com/jjeaby/mew/actions) as uptime monitors, and [Pages](https://jjeaby.github.io/mew/) for the status page.
 
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [mecab jjeaby](https://mecab.jjeaby.ml) | 🟩 Up | [mecab-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/mecab-jjeaby.yml) | <img alt="Response time graph" src="./graphs/mecab-jjeaby.png" height="20"> 939ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fmecab-jjeaby%2Fuptime.json)
-| [doku jjeaby](https://www.jjeaby.ml) | 🟩 Up | [doku-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/doku-jjeaby.yml) | <img alt="Response time graph" src="./graphs/doku-jjeaby.png" height="20"> 1052ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fdoku-jjeaby%2Fuptime.json)
+
+| URL                                     | Status | History                                                                                   | Response Time                                                                     | Uptime                                                                                                                                                    |
+| --------------------------------------- | ------ | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [mecab jjeaby](https://mecab.jjeaby.ml) | 🟩 Up  | [mecab-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/mecab-jjeaby.yml) | <img alt="Response time graph" src="./graphs/mecab-jjeaby.png" height="20"> 940ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fmecab-jjeaby%2Fuptime.json) |
+| [doku jjeaby](https://www.jjeaby.ml)    | 🟩 Up  | [doku-jjeaby.yml](https://github.com/jjeaby/mew/commits/master/history/doku-jjeaby.yml)   | <img alt="Response time graph" src="./graphs/doku-jjeaby.png" height="20"> 1034ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjeaby%2Fmew%2Fmaster%2Fapi%2Fdoku-jjeaby%2Fuptime.json)  |
+
 <!--end: status pages-->
 
-
-여기 수정? 
-
+여기 수정?
 
 [**Visit our status website →**](https://jjeaby.github.io/mew/)
 
