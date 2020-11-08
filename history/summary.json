@@ -5,7 +5,7 @@
     "slug": "mecab-jjeaby",
     "status": "up",
     "uptime": "100.00",
-    "time": 963
+    "time": 967
   },
   {
     "name": "doku jjeaby",
@@ -13,14 +13,14 @@
     "slug": "doku-jjeaby",
     "status": "up",
     "uptime": "100.00",
-    "time": 1174
+    "time": 1165
   },
   {
     "name": "je Secret Site",
     "url": "$SECRET_SITE",
     "slug": "je-secret-site",
     "status": "down",
-    "uptime": "14.99",
-    "time": 1408
+    "uptime": "1.05",
+    "time": 1278
   }
 ]
