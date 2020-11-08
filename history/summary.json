@@ -19,8 +19,8 @@
     "name": "je Secret Site",
     "url": "$SECRET_SITE",
     "slug": "je-secret-site",
-    "status": "down",
-    "uptime": "1.05",
-    "time": 1278
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1183
   }
 ]
