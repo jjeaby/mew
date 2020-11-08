@@ -1,14 +1,18 @@
 owner: jjeaby # GitHub username
 repo: mew # GitHub repository name
-user-agent: jjeaby
 sites: # List of endpoints to track
   - name: mecab jjeaby
     url: https://mecab.jjeaby.ml
   - name: doku jjeaby
     url: https://www.jjeaby.ml
 assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
-status-website: # Status website (optional)
-#   cname: upptime.js.org # Custom domain CNAME
+  - jjeaby
+status-website:
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
+  name: JJEABY's Status
   baseUrl: /mew
-  name: jjeaby Upptime # Status website title
+  introTitle: JJEABY's Site Status."
+  introMessage: This is a JJEABY's Site status page which uses **real-time**
+  navbar:
+    - title: GitHub
+      href: https://github.com/jjeaby
