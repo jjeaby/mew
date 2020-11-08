@@ -6,7 +6,7 @@ sites: # List of endpoints to track
   - name: doku jjeaby
     url: https://www.jjeaby.ml
   - name : je Secret Site
-    url : $SECRET_SITE
+    url: $SECRET_SITE
 assignees: # Users to assign downtime issues (optional)
   - jjeaby
 status-website:
