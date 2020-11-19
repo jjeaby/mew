@@ -1,7 +1,7 @@
 - url: https://mecab.jjeaby.ml
-- status: down
+- status: up
 - code: 200
-- responseTime: 1108
-- lastUpdated: 2020-11-19T06:50:50.389Z
+- responseTime: 1144
+- lastUpdated: 2020-11-19T06:59:25.737Z
 - startTime: 2020-11-03T07:22:24.731Z
 - generator: Upptime <https://github.com/upptime/upptime>
