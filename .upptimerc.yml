@@ -1,20 +1,22 @@
 owner: jjeaby # GitHub username
 repo: mew # GitHub repository name
 sites: # List of endpoints to track
-  - name: mecab jjeaby
-    url: https://mecab.jjeaby.ml
-  - name: doku jjeaby
-    url: https://www.jjeaby.ml
-  - name : je Secret Site
-    url: $SECRET_SITE
+#   - name: mecab jjeaby
+#     url: https://mecab.jjeaby.ml
+#   - name: doku jjeaby
+#     url: https://www.jjeaby.ml
+#   - name : je Secret Site
+#     url: $SECRET_SITE
+    - name : kpop.video
+      url : https://kpop.video/
 assignees: # Users to assign downtime issues (optional)
   - jjeaby
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
-  name: JJEABY's Status
+  name: KPOP's Video Status
   baseUrl: /mew
-  introTitle: JJEABY's Site Status."
-  introMessage: This is a JJEABY's Site status page which uses **real-time**
+  introTitle: KPOP's Video Status."
+  introMessage: This is a KPOP's Video's Site status page which uses **real-time**
   navbar:
-    - title: GitHub
-      href: https://github.com/jjeaby
+    - title: KPOP's Video
+      href: https://kpop.video/
