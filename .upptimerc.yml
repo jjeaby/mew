@@ -11,6 +11,8 @@ sites: # List of endpoints to track
       url : https://kpop.video/
 assignees: # Users to assign downtime issues (optional)
   - jjeaby
+  - labyrins
+  - estyle81
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
   name: KPOP's Video Status
