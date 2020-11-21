@@ -1,26 +1,10 @@
 [
   {
-    "name": "mecab jjeaby",
-    "url": "https://mecab.jjeaby.ml",
-    "slug": "mecab-jjeaby",
+    "name": "kpop.video",
+    "url": "https://kpop.video/",
+    "slug": "kpop-video",
     "status": "up",
     "uptime": "100.00",
-    "time": 1050
-  },
-  {
-    "name": "doku jjeaby",
-    "url": "https://www.jjeaby.ml",
-    "slug": "doku-jjeaby",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1222
-  },
-  {
-    "name": "je Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "je-secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1125
+    "time": 1021
   }
 ]
