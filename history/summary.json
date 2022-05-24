@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/kpop.video",
     "slug": "kpop-video",
     "status": "down",
-    "uptime": "33.62%",
+    "uptime": "33.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.36%",
+    "uptimeYear": "0.09%",
     "time": 174,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 115,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-23": 57,
+      "2022-05-24": 62,
+      "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
@@ -379,8 +380,7 @@
       "2021-05-28": 1440,
       "2021-05-27": 1440,
       "2021-05-26": 1440,
-      "2021-05-25": 1440,
-      "2021-05-24": 929
+      "2021-05-25": 1440
     }
   }
 ]
